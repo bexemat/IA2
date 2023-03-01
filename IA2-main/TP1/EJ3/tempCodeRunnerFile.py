@@ -1,0 +1,1 @@
+ListaPedidos=np.loadtxt('listaPedidos.txt',dtype="int",skiprows=0) #Cargamos la lista de pedidos
